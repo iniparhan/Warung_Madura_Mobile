@@ -2,7 +2,9 @@
 
 ## File
 `ManajemenWarung` : Main file yang berisi gambaran kasar keseluruhan kode berjalan tanpa framework Spring boot
+
 `spring-boot-demo` : Framework file mentah hasil generate
+
 `warung_madura-system` : Framework file yang hampir selesai, tetapi masih ada masalah di servicenya 
 ## FILE CLASS and FUNCTION
 - `Main`
